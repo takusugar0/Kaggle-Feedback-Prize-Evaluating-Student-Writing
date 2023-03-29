@@ -1,4 +1,4 @@
-## Kaggle-Feedback-Prize-English-Language-Learning
+## Kaggle - [Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/competitions/feedback-prize-2021)
 ### コンペ概要
 学生が書いた作文から要素を特定するモデルの精度を競うコンペティション。
 ### Notebook
